@@ -4,6 +4,5 @@ this is the first version. today is sunny
 this is a new line added
 
 
-it is very cold.
 
 A new new line added
